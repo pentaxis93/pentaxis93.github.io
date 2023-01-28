@@ -1,3 +1,3 @@
-# Your blog
+# My deep learning blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+I'm starting this blog to document my journey as I explore deep learning and its applications. Let's see how far we can go.
